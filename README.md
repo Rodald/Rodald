@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rodald
 - 👀 I’m interested in Computer Programming
-- 💞️ I’m looking to collaborate on 
 - 😄 Pronouns: he/him
 
 <!---
